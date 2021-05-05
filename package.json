@@ -1,0 +1,24 @@
+{
+  "name": "next_project",
+  "version": "1.0.0",
+  "description": "Initializing a Next.js project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Suyash",
+  "license": "ISC",
+  "dependencies": {
+    "@theme-ui/presets": "^0.8.0",
+    "body-parser": "^1.19.0",
+    "dotenv-load": "^2.0.0",
+    "next": "^10.2.0",
+    "next-connect": "^0.10.1",
+    "next-env": "^1.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "theme-ui": "^0.8.0"
+  }
+}
